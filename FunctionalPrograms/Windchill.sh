@@ -1,5 +1,5 @@
 #! /bin/bash
-
+    
 read -p "Enter the temperature:" t
 read -p "Enter the velocity:" v
 if (( $t>50 ))
