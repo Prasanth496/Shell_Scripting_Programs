@@ -1,5 +1,5 @@
 #! /bin/bash
-
+ 
 read -p "Enter the nth number:" number
 if [ $number -gt 0 ]
 then
