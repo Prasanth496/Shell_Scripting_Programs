@@ -1,5 +1,6 @@
 #! /bin/bash
 
+
 read -p "Enter the number:" number
 for (( i=2; i*i<=$number;i++ ))
 do
