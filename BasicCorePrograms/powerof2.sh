@@ -1,5 +1,5 @@
 #! /bin/bash
-
+ 
 read -p "Enter the power:" power
 if [ $power -gt 0 ]
 then
