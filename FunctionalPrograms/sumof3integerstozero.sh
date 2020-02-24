@@ -1,5 +1,5 @@
 #! /bin/bash
-
+   
 read -p "Enter the size:" size
 # filling the array
 
