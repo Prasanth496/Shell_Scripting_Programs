@@ -1,5 +1,5 @@
 #! /bin/bash
-
+  
 read -p "Enter the number of rows:" x
 read -p "Enter the number of columns:" y
 
