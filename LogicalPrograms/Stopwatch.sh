@@ -1,4 +1,5 @@
 #! /bin/bash
+
 echo "Stopwatch started press ctrl+c to stop the stopwatch"
 start_time="$(date +%s)"
 while (( 1 ))
