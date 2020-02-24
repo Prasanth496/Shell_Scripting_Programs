@@ -1,5 +1,5 @@
 #! /bin/bash
-
+  
 small=({a..z})
 big=({A..Z})
 read -p "How many distinct coupons to generate:" n
