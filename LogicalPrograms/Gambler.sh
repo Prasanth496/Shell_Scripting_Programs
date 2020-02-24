@@ -1,5 +1,5 @@
 #! /bin/bash
-
+  
 read -p "Enter the goal amount:" goal
 stake=1
 count=0
