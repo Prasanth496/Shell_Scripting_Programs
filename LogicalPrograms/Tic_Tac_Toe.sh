@@ -1,5 +1,5 @@
 #! /bin/bash
-
+   
 row=3
 col=3
 player=1
