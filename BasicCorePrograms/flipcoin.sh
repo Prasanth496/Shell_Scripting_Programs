@@ -1,5 +1,5 @@
 #! /bin/bash
-
+ 
 read -p "Enter the number of flips:" flip
 if [ $flip -gt 0 ]
 then
